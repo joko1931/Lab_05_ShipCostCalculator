@@ -23,7 +23,7 @@ public class Main {
         }
         else
         {
-            System.out.println("Please redo program and enter valid input");
+            System.out.println("Please redo program and enter a valid input");
         }
     }
 }
